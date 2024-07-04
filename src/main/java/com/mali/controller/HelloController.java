@@ -1,4 +1,4 @@
-package com.mali.controller;
+/*package com.mali.controller;
 
 import org.springframework.web.bind.annotation.*;
 
@@ -33,5 +33,7 @@ public class HelloController {
     }
 
 
-}
+}*/
+
+
 
